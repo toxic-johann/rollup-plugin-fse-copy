@@ -15,6 +15,6 @@
   "license": "MIT",
   "dependencies": {
     "colors": "^1.1.2",
-    "fs-extra": "^3.0.0"
+    "fs-extra": "^7.0.1"
   }
 }
