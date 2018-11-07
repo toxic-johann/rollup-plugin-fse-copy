@@ -1,5 +1,7 @@
 # rollup-plugin-copy
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/toxic-johann/rollup-plugin-fse-copy.svg)](https://greenkeeper.io/)
+
 Forked from https://github.com/meuter/rollup-plugin-copy. Published as a backup.
 
 *Very* basic rollup plugin to copy static assets over to you public directory. Files are copied using [fs-extra.copy](https://github.com/jprichardson/node-fs-extra/blob/master/docs/copy.md) 
